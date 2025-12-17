@@ -1,7 +1,8 @@
 # Timing test task
-Last edit: 12/16/2025
+Last edit: 12/17/2025
 
 ## Edit history
+- 12/17/2025 by Alex He - added text screens before starting trials to set up light sensors
 - 12/16/2025 by Alex He - created finalized first draft version
 
 ## Description
